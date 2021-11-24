@@ -1,0 +1,2 @@
+<meta http-equiv="refresh" content="3" >
+add this with meta for automatic reloads in browser

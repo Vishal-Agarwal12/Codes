@@ -1,0 +1,6 @@
+1) toggle word wrap when you dont want horizontal bar by going to command palette and then select toggle word wrap
+2) use p*4 for creating 4 paragraphs at the same time
+3) in html there are only tag and attributes
+4) use ctrl + enter to directly jump to a new line without using mouse
+5) use lorem40 for inserting 40 words dummy text
+6)

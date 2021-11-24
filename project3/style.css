@@ -1,0 +1,99 @@
+body{
+    margin :0px;
+}
+
+#body-header{
+     height: 400px;
+    background-image: url(pictures/headerimage.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.horizontal-list{
+    list-style: none;
+    padding-left: 0px;
+    margin: 0px;
+   
+}
+
+.horizontal-list li{
+    display: inline-block;
+    margin: 0px 8px 8px 0px;
+    font-weight: 100;
+    font-size: 0.9rem;
+    margin-top: 10px;
+}
+
+.horizontal-list li a{
+    color: white;
+    text-decoration: none;
+    
+    font-size: 1.4rem;
+    
+}
+
+.nav-menu li a{
+    transition: color 0.7s ;
+}
+
+.nav-menu li a:hover{
+     color: rgb(238, 215, 215);
+     border-bottom: 1px solid white;
+}
+
+.text-center{
+    text-align: center;
+}
+
+#name-social-container{
+    margin-top: 20vh;
+}
+
+#my-name{
+    font-size: 3rem;
+    letter-spacing: 0.1rem;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+
+}
+
+.social-icons li a i{
+    padding: 7px;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+.social-icons li a i:hover{
+    box-shadow: 0px 0px 6px 4px red;
+    
+}
+
+section{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+#About{
+    height: auto;
+    width: 100%;
+}
+ #my-image{
+    height: 12rem;
+    width: 12rem;
+    margin: auto;
+    margin-top: -60px;
+} 
+
+#my-image img{
+height: 190px;
+width: auto;
+border-radius: 50%;
+}
+
+#para{
+    text-align: center;
+    margin: 10px 200px 0px 200px;
+}
